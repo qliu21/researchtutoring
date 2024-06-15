@@ -1,4 +1,4 @@
-# <span style="color:blue">Individualized Research Tutoring</span>
+# <span style="color:red">Individualized Research Tutoring</span>
 
 > 学钢琴是为了以后走音乐的道路，成为朗朗？
 学数学是为了以后成为数学家？
